@@ -1,5 +1,5 @@
 # spaCy-talk-demo
-Slides and Python notebook for PyData Vancouver talk (25-02-2020)
+Slides and Jupyter Notebook for PyData Vancouver talk (25-02-2020)
 
 In this talk, we first review spaCy's basic usage:
 - Loading models for different languages.
@@ -9,4 +9,4 @@ In this talk, we first review spaCy's basic usage:
 
 In the second half, we take a stab at customizing spaCy pipelines to solve two tasks:
 - Create a tokenizer that does not split hyphenated words.
-- Create a simple noun chunker that identifies only consecutive nouns, optionally preceded by a simple adjective.
+- Create a simple noun chunker that identifies only consecutive nouns, optionally preceded by a single adjective.
